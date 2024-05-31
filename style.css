@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+#page-1 {
+  background: url("Japan-2107x1406\ \(3\).jpg") no-repeat center center/cover;
+}
+#page-2 {
+  background: url("south-korea-itineraries-1713428127-785X440.jpg") no-repeat
+    center center/cover;
+}
+#page-3 {
+  background: url("Hawaii\ Tourism\ Oceania\ \(17\).jpg") no-repeat center
+    center/cover;
+}
+#page-4 {
+  background: url("Rome-the-most-beautiful-city-in-Italy.jpg") no-repeat center
+    center/cover;
+}
+#page-5 {
+  background: url("Bangkok_0000_Thailand-Bangkok-Chao\ Phraya\ River-shutterstock_219128044.jpg")
+    no-repeat center center/cover;
+}
